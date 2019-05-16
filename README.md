@@ -1,4 +1,6 @@
 # AWSLearningNotes
+
+### Read the WIKI to know about the AWS Integrated Services, Architecure, Pricing and Security
 Hands on learning on AWS CLI, Console, core and integrated services
 
 
