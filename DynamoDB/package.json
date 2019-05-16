@@ -1,0 +1,25 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conditional.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fasteningcode/DynamoDb.git"
+  },
+  "author": "Aadhith Kalathil Bose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fasteningcode/DynamoDb/issues"
+  },
+  "homepage": "https://github.com/fasteningcode/DynamoDb#readme",
+  "dependencies": {
+    "async": "^2.6.2",
+    "aws-sdk": "^2.456.0",
+    "restore": "^0.3.0",
+    "underscore": "^1.9.1"
+  }
+}
